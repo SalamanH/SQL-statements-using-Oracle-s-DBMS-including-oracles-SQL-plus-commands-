@@ -1,0 +1,2 @@
+# SQL-statements-using-Oracle-s-DBMS-including-oracles-SQL-plus-commands-
+This subject continues the study of database design and SQL begun in DBS201. Students will learn the entire set of SQL statements using Oracle's DBMS. Students will also learn Oracle's SQL *Plus commands. Students will work in teams to prepare and implement the logical and physical database schema for a business application requiring 12-18 tables including all necessary contraints to protect the integrity of the data.
